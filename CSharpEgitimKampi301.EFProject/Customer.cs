@@ -18,5 +18,6 @@ namespace CSharpEgitimKampi301.EFProject
         public string CustomerName { get; set; }
         public string CustomerSurname { get; set; }
         public Nullable<decimal> CustomerBalance { get; set; }
+        public object CustomerCity { get; set; }
     }
 }

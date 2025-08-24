@@ -62,6 +62,7 @@
     <Compile Include="EntityFramework\EfCategoryDal.cs" />
     <Compile Include="EntityFramework\EfCustomerDal.cs" />
     <Compile Include="EntityFramework\EfOrderDal.cs" />
+    <Compile Include="EntityFramework\EfProductDal.cs" />
     <Compile Include="Migrations\202508171852258_mig1.cs" />
     <Compile Include="Migrations\202508171852258_mig1.Designer.cs">
       <DependentUpon>202508171852258_mig1.cs</DependentUpon>
